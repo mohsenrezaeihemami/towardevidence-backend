@@ -6,3 +6,4 @@ python-dotenv
 rispy
 PyMuPDF
 openai
+python-multipart
